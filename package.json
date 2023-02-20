@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "momment": "^0.0.1",
+    "nuxt-moment": "^1.0.5"
+  }
+}
